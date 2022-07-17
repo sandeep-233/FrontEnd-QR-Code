@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background:  #d5e1ef;
+    font-family: 'Varela Round', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    width: 237px;
+    height: 365px;
+    padding: 12px;
+    background-color: white;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    font-weight: 400;
+    color: #a3a8b2;
+}
+.attribution p {
+    font-size: 16px;
+    font-weight: 700;
+    color: black;
+    padding: 12px;
+}
+.attribution img {
+    width: 214px;
+    border-radius: 12px;
+}
